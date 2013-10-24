@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachersPet_CS441", "WindowsFormsApplication1\TeachersPet_CS441.csproj", "{261C1735-FDF4-4270-8595-A9A1DF248CF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261C1735-FDF4-4270-8595-A9A1DF248CF2}.Debug|x86.ActiveCfg = Debug|x86
+		{261C1735-FDF4-4270-8595-A9A1DF248CF2}.Debug|x86.Build.0 = Debug|x86
+		{261C1735-FDF4-4270-8595-A9A1DF248CF2}.Release|x86.ActiveCfg = Release|x86
+		{261C1735-FDF4-4270-8595-A9A1DF248CF2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
